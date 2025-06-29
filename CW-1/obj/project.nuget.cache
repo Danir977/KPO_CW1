@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "htGDz6hlip8=",
+  "success": true,
+  "projectFilePath": "/Users/danirbembinov/Desktop/Учеба/2 курс/КПО/CW-1/CW-1/CW-1.csproj",
+  "expectedPackageFiles": [
+    "/Users/danirbembinov/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.5.25277.114/microsoft.extensions.dependencyinjection.10.0.0-preview.5.25277.114.nupkg.sha512",
+    "/Users/danirbembinov/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.5.25277.114/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.5.25277.114.nupkg.sha512"
+  ],
+  "logs": []
+}
